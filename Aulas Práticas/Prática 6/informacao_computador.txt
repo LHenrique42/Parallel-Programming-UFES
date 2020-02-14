@@ -1,0 +1,5 @@
+Todos os códigos foram implementados em C++ e compilados com g++ 7.4.0.
+Os experimentos foram realizados em uma máquina com:
+        - Intel(R) Core(TM) i7-8550U 1.80 GHz 1.99GHz
+        - 8 de Memoria RAM
+        - Sistema operacional: Linux Mint 19.1
